@@ -9,7 +9,7 @@ Trying to find time to improve on this project.
 <ul>
   <li>Release JAR with  current working version;</li>
   <li>Add start menu;</li>
-  <li>Add more levels and different stages;</li>
+  <li>Add more levels and different stages; </li>
   <li>Add one final boss and improve patterns and shooting mechanics.</li>
   <li>Improve Art and Animation;</li>
 </ul>
