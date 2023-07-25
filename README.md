@@ -1,5 +1,5 @@
 # The Archer
-Archer is a game modeled after third-person shooters, with a focus on single-player dueling.
+Archer is a game modeled in third-person shooters, with a focus on single-player dueling.
 
 ## Release
 Trying to find time to improve on this project.
