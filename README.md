@@ -24,5 +24,5 @@ Trying to find time to improve on this project.
 
 ## Tech
 - SDK-1.8
-- Language Level (8 - Lambdas, type annotations, etc. )
+- Language Level (8 - Lambdas, type annotations, etc.)
 - [Simple Graphics Library](https://github.com/academia-de-codigo/simple-graphics)
