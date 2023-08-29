@@ -1,10 +1,12 @@
-# The Archer
+## The Archer.
+
 Archer is a game modeled in third-person shooters, with a focus on single-player dueling.
 
-## Release
+## Release.
+
 Trying to find time to improve on this project.
 
-## Roadmap
+## Roadmap.
 
 <ul>
   <li>Release JAR with  current working version;</li>
@@ -14,15 +16,18 @@ Trying to find time to improve on this project.
   <li>Improve Art and Animation;</li>
 </ul>
 
-## Status
+## Status.
+
 <span style="color: green"> Working on it </span>
 
-## Gameplay
+## Gameplay.
+
 <p align="center">
   <img src="https://i.imgur.com/q0439Sj.gif" >
 </p>
 
-## Tech
+## Tech.
+
 - SDK-1.8
 - Language Level (8 - Lambdas, type annotations, etc.)
 - [Simple Graphics Library](https://github.com/academia-de-codigo/simple-graphics)
